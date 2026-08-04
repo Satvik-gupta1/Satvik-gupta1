@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Satvik-gupta1
-- 👀 I’m interested in c++, python.
-- 🌱 I’m currently learning java
-- 😄 Pronouns: He/him
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Satvik-gupta1/Satvik-gupta1/main/dark.svg">
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Satvik-gupta1/Satvik-gupta1/main/light.svg">
 
-<!---
-Satvik-gupta1/Satvik-gupta1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img
+    alt="Satvik Gupta"
+    src="https://raw.githubusercontent.com/Satvik-gupta1/Satvik-gupta1/main/light.svg">
+</picture>

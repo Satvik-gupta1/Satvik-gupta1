@@ -1,4 +1,4 @@
-## 💫 Hi 👋, I'm Satvik Gupta
+##  Hi, I'm Satvik Gupta
 **A passionate Software Developer || AI/ML Enthusiast || Computer Science Engineer from India**
 
 Email Me 👉 ✉️ **satvikgupta76@gmail.com** For Collaboration/Project or Anything Else. 😊

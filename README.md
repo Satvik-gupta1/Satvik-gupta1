@@ -24,6 +24,9 @@ Email Me 👉 ✉️ **satvikgupta76@gmail.com** For Collaboration/Project or An
 ### 🏥 [MediScan-V2](https://github.com/Satvik-gupta1/MediScan-V2)
 AI-powered medical image diagnosis system using **Python, deep learning, computer vision and Streamlit** for automated medical image analysis and intelligent diagnosis.
 
+### 🤖 [SwarmOps](https://github.com/Satvik-gupta1/SwarmOps-)
+Autonomous mobile robot (AMR) fleet simulator and predictive maintenance hub using **Python, A*/D* Lite pathfinding, XGBoost, SHAP and Streamlit** for real-time multi-robot coordination and explainable anomaly detection.
+
 ### 🛡️ [XAI-Guard](https://github.com/Satvik-gupta1/XAI-Guard)
 **Explainable Threat Modeling for Cyber-Physical Systems**, combining cybersecurity concepts with explainable AI to analyze and understand potential system threats.
 

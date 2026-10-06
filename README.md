@@ -1,17 +1,17 @@
 ##  Hi, I'm Satvik Gupta
 **A passionate Software Developer || AI/ML Enthusiast || Computer Science Engineer from India**
 
-Email Me 👉 ✉️ **satvikgupta76@gmail.com** For Collaboration/Project or Anything Else. 😊
+Email Me **satvikgupta76@gmail.com** For Collaboration/Project or Anything Else.
 
 ## About Me
 
-- 🔭 **I’m currently working on:** AI/ML projects and intelligent software applications
-- 🌱 **I’m currently learning:** Advanced Data Structures & Algorithms, Machine Learning & System Design
-- 👯 **I’m looking to collaborate on:** Open-source, AI/ML and software development projects
-- 🤔 **I’m looking for help with:** Building scalable and production-ready AI applications
-- 💬 **Ask me about:** C++, Python, DSA, AI/ML, Computer Vision & Software Development
-- 📫 **How to reach me:** Through my GitHub or LinkedIn
-- ⚡ **Fun fact:** I enjoy turning ideas into working projects and solving problems with code
+-  **I’m currently working on:** AI/ML projects and intelligent software applications
+-  **I’m currently learning:** Advanced Data Structures & Algorithms, Machine Learning & System Design
+-  **I’m looking to collaborate on:** Open-source, AI/ML and software development projects
+-  **I’m looking for help with:** Building scalable and production-ready AI applications
+-  **Ask me about:** C++, Python, DSA, AI/ML, Computer Vision & Software Development
+-  **How to reach me:** Through my GitHub or LinkedIn
+-  **Fun fact:** I enjoy turning ideas into working projects and solving problems with code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satvikgupta12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satvikgupta76@gmail.com) 

@@ -24,8 +24,8 @@ Email Me **satvikgupta76@gmail.com** For Collaboration/Project or Anything Else.
 ###  [MediScan-V2](https://github.com/Satvik-gupta1/MediScan-V2)
 AI-powered medical image diagnosis system using **Python, deep learning, computer vision and Streamlit** for automated medical image analysis and intelligent diagnosis.
 
-###  [SwarmOps](https://github.com/Satvik-gupta1/SwarmOps-)
-Autonomous mobile robot (AMR) fleet simulator and predictive maintenance hub using **Python, A*/D* Lite pathfinding, XGBoost, SHAP and Streamlit** for real-time multi-robot coordination and explainable anomaly detection.
+###  [ConsumerPulse](https://github.com/Satvik-gupta1/ConsumerPulse)
+Agentic Voice of Consumer (VoC) & Market Science engine uniting LangGraph, ChromaDB Hybrid RAG, and explainable XGBoost + SHAP analytics to turn 100K+ omnichannel D2C reviews and SKU signals into automated commercial actions.
 
 ###  [XAI-Guard](https://github.com/Satvik-gupta1/XAI-Guard)
 **Explainable Threat Modeling for Cyber-Physical Systems**, combining cybersecurity concepts with explainable AI to analyze and understand potential system threats.
@@ -36,8 +36,8 @@ A **SUMO-based VANET simulation and analytics framework** designed to monitor, d
 ###  [Reddit-sentiment-analyzer](https://github.com/Satvik-gupta1/Reddit-sentiment-analyzer)
 Stock-market analysis system combining **Reddit sentiment analysis, NLP and stock-market trends** to study the correlation between social sentiment and market movements.
 
-###  [ocr_updated](https://github.com/Satvik-gupta1/ocr_updated)
-An **OCR-based document processing project** focused on extracting and processing textual information from images and documents.
+###  [Multimodal LLM Knowledge Extraction & Prompt Evaluation Pipeline](https://github.com/Satvik-gupta1/ocr_updated)
+End-to-end multimodal document intelligence pipeline uniting OCR engines, Gemini 2.5 Flash API, and LayoutLMv3 to convert noisy text into structured SQL schemas, achieving 97.37% recall and a 33% reduction in false positives.
 
 ###  [Student-database-site](https://github.com/Satvik-gupta1/Student-database-site)
 A web-based **student database management system** for storing, managing and accessing student information.
